@@ -328,4 +328,4 @@ const zead = [
 
 //TOKEN//
 
-client.login(processenvBOT_TOKEN)
+client.login(process.env.BOT_TOKEN)
